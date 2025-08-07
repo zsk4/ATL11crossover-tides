@@ -1,0 +1,37 @@
+[project]
+name = "atl11-crossovers"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+
+dependencies = [
+    "astropy>=7.1.0",
+    "cartopy>=0.24.1",
+    "earthaccess>=0.14.0",
+    "h5py>=3.13.0",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.3",
+    "numpy>=2.2.6",
+    "pandas>=2.2.3",
+    "pre-commit>=4.2.0",
+    "pyproj>=3.7.1",
+    "pyshp>=2.3.1",
+    "pytmd==2.2.4",
+    "ruff>=0.11.8",
+    "scipy>=1.15.3",
+    "shapely>=2.1.1",
+    "timescale>=0.0.8",
+    "utide>=0.3.1",
+    "xarray>=2025.4.0",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
