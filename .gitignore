@@ -12,3 +12,4 @@ wheels/
 # Data
 _data/
 FullCrossovers
+*/*.nc
