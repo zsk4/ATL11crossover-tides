@@ -35,8 +35,8 @@ import matplotlib.ticker as ticker
 
 from concurrent.futures import ProcessPoolExecutor
 from scipy.optimize import least_squares
-
-#
+import xarray as xr
+from numpy.polynomial import Polynomial
 
 # WORKER
 # User-defined path
@@ -219,12 +219,25 @@ constituents = {
 # Each reference track pair is a group
 group = ['/pt1/','/pt2/','/pt3/']
 
+
+# Test Using Smaller Chunks Here!
+# Change output dir here!
+#######################################
+#####################################
+###################################
+#################################
+###############################
+output_dir = 'polyfit_7_aug'
+
 chunk_size = 5
-
 num_chunks = (len(files) + chunk_size - 1) // chunk_size 
-
-######
 #num_chunks = 2
+
+###############################
+#################################
+###################################
+#####################################
+#######################################
 
 def process_chunk(chunk_idx):
     chunk_df = []
@@ -396,10 +409,6 @@ def tide_model(t, periods, parameters):
     modeled : list
         Tides at time t as estimated by the model
     """
-    print(len(parameters))
-    print(len(periods))
-    print(parameters)
-    print(periods)
 
     assert len(parameters) == 2 * len(
         periods
@@ -426,10 +435,17 @@ def tide_fitting(df, initial_guess):
     mskd_q = df['q_flag'] == 0
     mskd_h = df['height'].values[mskd_q]
     mskd_dac = df['dac'].values[mskd_q]
-    y = scipy.signal.detrend(mskd_h - mskd_dac, type='linear')
     t = df["time"].values[mskd_q]
+    #y = scipy.signal.detrend(mskd_h - mskd_dac, type='linear') # Detrend assumes linear spacing -- whoops!
+    h_dac_corrected = mskd_h - mskd_dac
+    poly, stats = Polynomial.fit(t, h_dac_corrected, 1,full=True)
+    fitted_y = poly(h_dac_corrected)
+    y_detrended = h_dac_corrected - fitted_y
+
+    residual = stats[0]
+
     #initial_guess = [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
-    fit = least_squares(residuals, initial_guess, args=(t, y, periods))
+    fit = least_squares(residuals, initial_guess, args=(t, y_detrended, periods))
     for n in range(8):
         if fit.x[n] < 0:
             fit.x[n + 8] += np.pi
@@ -443,6 +459,10 @@ def tide_fitting(df, initial_guess):
     'phase': phase,
     'lat': df['lat'][0],
     'lon': df['lon'][0],
+    'res': residual,
+    'datetime': df["datetime"].values[mskd_q],
+    'xovers': y_detrended,
+    'xovers_undetrended': h_dac_corrected,
     }
 
 # MAIN CODE 
@@ -497,6 +517,7 @@ if __name__ == "__main__": # Concurrent futures ProcessPoolExecutor (What we wan
         amp = amp * np.pi / 180
         init = np.concatenate((amp,ph))
         initial_guesses.append(init)
+
     # Try sinusoid fit
     print("Fitting a Sinusoid")
     with ProcessPoolExecutor() as executor:
@@ -511,10 +532,66 @@ if __name__ == "__main__": # Concurrent futures ProcessPoolExecutor (What we wan
     'phases': [r['phase'] for r in results],
     'lats': [r['lat'] for r in results],
     'lons': [r['lon'] for r in results],
+    'detrend_residuals': [r['res'] for r in results],
+    'datetime': [r['datetime'] for r in results],
+    'xovers': [r['xovers'] for r in results],
+    'xovers_undetrended': [r['xovers_undetrended'] for r in results],
     }
 
     tide_analyses['amp_pyTMD'] = amp_pyTMD
     tide_analyses['ph_pyTMD'] = ph_pyTMD
+
+    # Save as netcdf
+    # When refactoring figure out how to save this with labels like a good netcdf file.
+    print("Saving netcdf of tides")
+    print(np.array(tide_analyses['xs']).shape)
+    print(np.array(tide_analyses['amp_pyTMD']).shape)
+    print(np.array(tide_analyses['amplitudes']).shape)
+    print(np.array(tide_analyses['phases']).shape)
+    print(np.array(tide_analyses['detrend_residuals']).shape)
+
+
+    # Pad datetime, xovers, xovers_undetrended so they can be stored as a netcdf
+    max_len =  max(len(d) for d in tide_analyses['datetime'])
+    padded_datetime = np.full(
+        (len(tide_analyses['datetime']), max_len), 
+        np.datetime64('NaT'),  # fill value
+        dtype='datetime64[ns]'
+    )
+    padded_xover = np.full(
+        (len(tide_analyses['xovers']), max_len), 
+       np.nan,  # fill value
+    )
+    padded_xover_undetrended = np.full(
+        (len(tide_analyses['xovers']), max_len), 
+       np.nan,  # fill value
+    )
+    for i, (arr_dt, arr_xo, arr_xo_ut) in enumerate(zip(tide_analyses['datetime'],tide_analyses['xovers'],tide_analyses['xovers_undetrended'])):
+        padded_datetime[i, :len(arr_dt)] = np.array(arr_dt, dtype='datetime64[ns]')
+        padded_xover[i, :len(arr_xo)] = arr_xo
+        padded_xover_undetrended[i, :len(arr_xo_ut)] = arr_xo_ut
+
+    print(np.array(padded_datetime).shape)
+    print(np.array(padded_xover).shape)
+    print(np.array(padded_xover_undetrended).shape)
+
+    out_ds = xr.Dataset({
+    'x':     (['point'], tide_analyses['xs']),
+    'y':     (['point'], tide_analyses['ys']),
+    'lat':   (['point'], tide_analyses['lats']),
+    'lon':   (['point'], tide_analyses['lons']),
+    'amplitude': (['point','constituent'], tide_analyses['amplitudes']),
+    'phase':     (['point','constituent'], tide_analyses['phases']),
+    'detrend_residuals':  (['point'], np.array(tide_analyses['detrend_residuals']).squeeze()),
+    'amp_pyTMD': (['point','constituent'], tide_analyses['amp_pyTMD']),
+    'ph_pyTMD':  (['point','constituent'], tide_analyses['ph_pyTMD']),
+    'datetime':(['point','times'], padded_datetime),
+    'xovers': (['point','times'], padded_xover),
+    'xovers_undetrended': (['point','times'], padded_xover_undetrended),
+    })
+
+    out_ds.to_netcdf(f"./{output_dir}/ross_ATL11_tides.nc")
+
 
     # Plot amps
     print("Plotting Amplitudes")
@@ -555,7 +632,7 @@ if __name__ == "__main__": # Concurrent futures ProcessPoolExecutor (What we wan
 
         cbar.ax.tick_params(labelsize=25)
         cbar.set_label(f"{const} Amplitude [m]", fontsize=28, color="black")
-        fig.savefig(f"./paralleloutput/{const}_ha_amp.png", bbox_inches="tight", dpi=300, transparent=True)
+        fig.savefig(f"./{output_dir}/{const}_ha_amp.png", bbox_inches="tight", dpi=300, transparent=True)
 
     # Plot Difference from CATS
     print("Plotting Differences from CATS")
@@ -592,4 +669,4 @@ if __name__ == "__main__": # Concurrent futures ProcessPoolExecutor (What we wan
 
         cbar.ax.tick_params(labelsize=25)
         cbar.set_label(f"{const} - CATS Amplitude [m]", fontsize=28, color="black")
-        fig.savefig(f"./paralleloutput/{const}_ha_CATSDiff.png", bbox_inches="tight", dpi=300, transparent=True)
+        fig.savefig(f"./{output_dir}/{const}_ha_CATSDiff.png", bbox_inches="tight", dpi=300, transparent=True)
