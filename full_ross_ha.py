@@ -13,6 +13,8 @@ Results in weird ordering in file, to fix and make more readable in future versi
 v0.1 6 August 2025
     Initial parallelization of project
     Wait to refactor until new ATL11 version comes out and I need to refactor anyways
+
+v0.2 30 December 2025
 """
 
 # Imports
