@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/wendianHome/home/m10921061/ATL11crossover-tides/Plot.py", line 317, in <module>
+    xs = np.array(ds['x'][:n])
+                           ^
+NameError: name 'n' is not defined. Did you mean: 'np'?
+srun: error: c041: task 0: Exited with exit code 1

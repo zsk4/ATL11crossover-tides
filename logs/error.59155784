@@ -1,0 +1,912 @@
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:160: RuntimeWarning: overflow encountered in multiply
+  x = a * b
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:183: RuntimeWarning: overflow encountered in multiply
+  c = 134217729.0 * a  # 2**27+1.
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:185: RuntimeWarning: invalid value encountered in subtract
+  ah = c - abig
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:139: RuntimeWarning: invalid value encountered in subtract
+  ea = x - eb  # avirtual in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/astropy/time/utils.py:140: RuntimeWarning: invalid value encountered in subtract
+  eb = b - eb  # broundoff in Shewchuk
+/wendianHome/home/m10921061/ATL11crossover-tides/.venv/lib/python3.12/site-packages/erfa/core.py:16223: RuntimeWarning: invalid value encountered in d2dtf
+  iy, im, id, ihmsf, c_retval = ufunc.d2dtf(scale, ndp, d1, d2)
